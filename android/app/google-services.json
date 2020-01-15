@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858127589081",
+    "firebase_url": "https://gci-disease-app.firebaseio.com",
+    "project_id": "gci-disease-app",
+    "storage_bucket": "gci-disease-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858127589081:android:de00bd41198492588768c8",
+        "android_client_info": {
+          "package_name": "com.mohak.disease_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858127589081-2f9735h4lrjf49en78mfivd03gcp1gtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0_PCJsl0kQNzOlplXuq-d5Ql41ACje8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858127589081-2f9735h4lrjf49en78mfivd03gcp1gtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
